@@ -1,0 +1,141 @@
+.header{    
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    border: none;
+    border-style: solid;
+    border-color: black;       
+}
+.menuclass{
+    height: 110px;        
+}
+.left-section{
+    align-items: center;
+    display: flex;    
+}
+.right-section{
+    align-items: center;
+    display: flex;    
+}
+.option-icon{
+    height: 30px;
+    margin-right: 20px;
+    
+    border: none;
+    border-radius: 1px;
+}
+.font-one{
+    margin-left: -25px;
+    font-size: 35px;
+    font-weight: bold;
+    font-weight: 500;
+    font-family: 'Baloo 2', cursive;
+}
+.font-two{
+     font-family: 'PT Sans', sans-serif;
+     font-size: 34px;
+     margin-left: 20px;  
+.font-three{
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+}
+}
+.Asize{
+    width: 242px;
+	height: 242px;
+    margin-left: 350px;
+    border: none;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: #66545e;
+}
+.flex-one{
+    align-items: center;
+    display: flex;            
+}
+.flex-two{
+    align-items: center;
+    display: flex;    
+}
+.lyricfont{
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left: 250px;
+    border:none;s
+    border-radius: 0.5px;
+    border-style: solid;  
+    background-color: #E4E4E4;
+	font-size: 25px;
+	letter-spacing: 1px;
+}
+
+
+                    /* Element 4 */
+
+.credits{   
+         font-family: 'Roboto', sans-serif;
+         font-size: 36px;
+         margin-left: 20px;
+         margin-top: 10px;
+         font-weight: bold;
+         font-weight: 500;     
+}
+.texted{
+    padding-left:-51px;
+    margin-top: 50px;
+    font-family: 'PT Sans', sans-serif;
+	font-size: 24px;
+    
+}
+
+.texted-two{
+         font-family: 'Roboto', sans-serif;
+         font-size: 30px;
+         margin-left: 30px;
+         margin-top: 10px;
+         color: white;                  
+}
+.texted-one{
+    margin-left: -60px;
+    margin-top: 55px;
+    font-family: 'PT Sans', sans-serif;  
+    color: white;  
+	font-size: 25px;	
+}
+.cleartags{
+      font-size: 20px;
+      font-weight: bold;
+      font-weight: 500;      
+      padding-left: 20px;
+      font-family: 'Roboto', sans-serif;
+      color: white;
+}
+.button-ex{
+    padding: 10px;
+    width: 100px;
+    margin-right: 10px;
+    margin-left: 20px;
+    font-size: 15px;
+    border:none;
+    border-style: solid;
+    border-color: gray;
+    background-color: #88A7AF;
+    color: white;
+}
+.button-em{
+    padding: 10px;
+    width: 100px;
+    margin-right: 10px;
+    font-size: 15px;
+    border:none;
+    border-style: solid;
+    border-color: gray;
+    background-color: #88A7AF;
+    color: white;
+}
+
+
+
+.paddle{
+    margin-top: -90px;
+    background-color: #001433;
+}
